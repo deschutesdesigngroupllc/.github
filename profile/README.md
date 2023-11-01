@@ -6,7 +6,7 @@
 
 - 👯 We are looking to collaborate on [perscom-php-sdk](https://github.com/DeschutesDesignGroupLLC/perscom-php-sdk) and [perscom-docs](https://github.com/DeschutesDesignGroupLLC/perscom-docs)
 
-- 🤝 We are looking for help with [perscom-widget](https://github.com/DeschutesDesignGroupLLC/perscom-widget) and [perscom-cli](https://github.com/DeschutesDesignGroupLLC/perscom-cli)
+- 🤝 We are looking for help with [perscom-widget](https://github.com/DeschutesDesignGroupLLC/perscom-widget), [perscom-cli](https://github.com/DeschutesDesignGroupLLC/perscom-cli) and [perscom-zapier](https://github.com/DeschutesDesignGroupLLC/perscom-zapier)
 
 - 👨‍💻 All of our projects are available at [https://www.deschutesdesigngroup.com/portfolio](https://www.deschutesdesigngroup.com/portfolio)
 
